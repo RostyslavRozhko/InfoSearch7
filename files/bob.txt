@@ -1,0 +1,545 @@
+	Private Sector Bust: By - Shooting Shark : 
+	The following article appeared in the August, 1985
+
+	     On July 12, 1985, law enforcement officials seized the Private
+	Sector BBS, the official computer bulletin board of 2600 magazine,
+	for "complicity in computer theft," under the newly passed, and yet
+	untested, New Jersey Statute 2C:20-25.  Police had uncovered in	
+	April a credit carding ring operated around a Middlesex County
+	electronic bulletin board, and from  there investigated other North
+	Jersey bulletin boards.  Not understanding subject matter of the
+	Private Sector BBS, police assumed that the sysop was  involved in	
+	illegal activities.  Six other computers were also seized in this
+	investigation, including those of Store Manager [perhaps they mean
+	Swap Shop Manager? - Shark] who ran a BBS of his own, Beowolf, Red
+	Barchetta, the Vampire, NJ Hack Shack, sysop of the NJ Hack Shack
+	BBS, and that of the sysop of the Treasure Chest BBS. Immediately
+	after this action, members of 2600 contacted the media, who were
+	completely unaware of any of the raids.  They began to bombard the	
+	Middlesex County Prosecutor's Office with questions and a press
+	conference  was announced for July 16.  The system operator of the
+	Private Sector BBS attempted to attend along with reporters from
+	2600.  They were effectively  thrown off the premises.  Threats
+	were made to charge them with trespassing and other crimes.  An
+	officer who had at first received them civilly was  threatened with
+	the loss of his job if he didn't get them removed promptly.  Then
+	the car was chased out of the parking lot.  Perhaps prosecutor Alan
+	Rockoff was afraid that he presence of some technically literate
+	reporters would ruin the effect of his press release on the public.
+	As it happens, he didn't need our help. The next day the details of
+	the press conference were reported to the public by the press.  As
+	Rockoff intended, paranoia about hackers ran rampant. Headlines got
+	as ridiculous as hackers ordering tank parts by telephone from TRW 
+	and moving satellites with their home computers in order to make 
+	free phone calls.  These and even more exotic stories were reported 
+	by otherwise respectable media sources. The news conference  
+	understandably made the front page of most of the major newspapers 
+	in the US, and was a major news item as far away as Australia and in 
+	the United Kingdom due to the sensationalism of the claims.  We will 
+	try to explain why these claims may have been made in this issue. On 
+	July 18 the operator of The Private Sector was formally charged with
+	"computer conspiracy" under the above law, and released in the 
+	custody of his parents.  The next day the American Civil Liberties 
+	Union took over his defense.  The ACLU commented that it would be 
+	very hard for Rockoff to prove a conspiracy just "because the same 
+	information, construed by the prosecutor to be illegal, appears on 
+	two bulletin boards." especially as Rockoff admitted that "he did 
+	not believe any of the defendants knew each other."  The ACLU believes 
+	that the system operator's rights were violated, as he was assumed 
+	to be involved in an illegal activity just because of other people 
+
+                                  - 70 -
+
+
+	under investigation who happened to have posted messages on his
+	board. In another statement which seems to confirm Rockoff's belief
+	in guilt by association, he announced the  next day that "630
+	people were being investigated to determine if any used their
+	computer equipment fraudulently."  We believe this is only the user
+	list of the NJ Hack Shack, so the actual list of those to be
+	investigated may turn out to be almost 5 times that.  The sheer
+	overwhelming difficulty of this task may kill this investigation,
+	especially as they find that many hackers simply leave false
+	information.  Computer hobbyists all across the country have 
+	already been called by the Bound Brook, New Jersey 	office of the 
+	FBI.  They reported that the FBI agents used scare 	tactics in order 
+	to force confessions or to provoke them into turning in others.  We 
+	would like to remind those who get called that there is nothing 
+	inherently wrong or illegal in calling any ANY BBS, nor in talking 
+	about ANY activity.  The FBI would not comment on the case as it is 
+	an "ongoing investigation" and in the hands of the local prosecutor.  
+	They will soon find that many on the Private Sector BBS's user list 
+	are data processing managers, telecommunications security people, 
+	and others who are interested in the subject of the BBS, hardly the 
+	underground community of computer criminals depicted at the news 
+	conference.  The Private Sector BBS was a completely open BBS, and 
+	police and security people were even invited on in order to participate.
+	The BBS was far from  the "elite" type of underground telecom boards
+	that Rockoff attempted to portray. Within two days, Rockoff took
+	back almost all of the statements he had made at the news
+	conference, as AT&T and the DoD [Department of Defense - Shark]
+	discounted the claims he had made.  He was understandably unable to
+	find real proof of Private Sector's alleged illegal activity, and
+	was faced with having to return the computer equipment with nothing
+	to show for his effort. Rockoff panicked, and on July 31, the
+	system operator had a new charge against him, "wiring up his
+	computer as a blue box."  Apparently this was referring to his
+	Novation Applecat modem which is capable of generating any hertz
+	tone over the phone line.  By this stretch of imagination an
+	Applecat could produce a 2600 hertz tone as well as the MF which is
+	necessary for "blue boxing." However, each and every other owner of
+	an Applecat or any other modem that can generate its own tones
+	therefore has also "wired up his computer as a blue box" by merely
+	installing the modem. This charge is so ridiculous that Rockoff
+	probably will never bother to press it.  However, the wording of
+	WIRING UP THE COMPUTER gives rockoff an excuse to continue to hold
+	onto the computer longer in his futile search for illegal activity.
+	"We have requested that the prosecutors give us more specific
+	information," said Arthur Miller, the lawyer for The Private
+	Sector. "The charges are so vague that we can't really present a
+	case at this point." Miller will appear in court on August 16 to
+	obtain this information.  He is also issuing a demand for the
+	return of the equipment and, if the prosecutors don't cooperate,
+	will commence court proceedings against them.  "They haven't
+	been particularly cooperative," he said. 
+
+                                  - 71 -
+ 
+		Rockoff probably will soon reconsider taking Private Sector's
+	case to court, as he will have to admit he just didn't know what he
+	was doing when he seized the BBS.  The arrest warrant listed only
+	"computer conspiracy" against Private Sector, which is much more
+	difficult to prosecute than the multitude of charges against some 
+	of the other defendants, which include credit card fraud, toll 
+	fraud, the unauthorized entry into computers, and numerous others. 
+	Both Rockoff and the ACLU mentioned the Supreme Court in their 
+	press releases, but he will assuredly take one of his stronger 
+	cases to test the new New Jersey computer crime law.  by seizing 
+	the BBS just because of supposed activities discussed on it, 
+	Rockoff raises constitutional questions.  Darrell Paster, a 
+	lawyer who centers much of his work on computer crime, says 
+	the New Jersey case is "just another example of local law 
+	enforcement getting on the bandwagon of crime that has come into 
+	vogue to prosecute, and they have proceeded with very little 
+	technical understanding, and in the process they have abused many 
+	people's constitutional rights.  What we have developing is a mini 
+	witch hunt which is analogous to some of the arrests at day care 
+	centers, where they sweep in and arrest everybody, ruin reputations, 
+	and then find that there is only one or two guilty parties."  We feel 
+	that law enforcement, not understanding the information on the BBS,
+	decided to strike first and ask  questions later. 2600 magazine and
+	the sysops of the Private Sector BBS stand fully behind the system
+	operator.  As soon as the equipment is returned, the BBS will go
+	back up.  We ask all our readers to do their utmost to support us
+	in our efforts, and to educate as many of the public as possible
+	that a hacker is not a computer criminal.  We are all
+	convinced of our sysop's innocence, and await Rockoff's dropping of
+	the charges. 
+
+	NOTE:  Readers will notice that our reporting of the events are
+	quite different than those presented in the media and by the
+	Middlesex County Prosecutor.  We can only remind you that we are
+	much closer to the events at hand than the media is, and that we
+	are much more technologically literate than the Middlesex County
+	Prosecutor's Office.  The Middlesex County Prosecutor has already
+	taken back many of his statements, after the contentions were
+	disproven by AT&T and the DoD.  One problem is that the media and
+	the police tend to treat the seven cases as one case, thus the
+	charges against and activities of some of the hackers has been 
+
+
+
+
+
+
+
+
+
+
+
+                                  - 72 -
+
+
+	Phreaking AT&T Cards: By - Net Runner
+
+	    My topic will deal with using an AT&T calling card for
+	automated calls. Ok to place a call with an AT&T card, lift the
+	handset (PAY PHONE) hit (0) and the desired area code and the 
+	number to call. Also when calling the same number that the card is
+	being billed to you enter the phone number and at  the tone only
+	enter the last four digits on the card. But we don't want  to do
+	that now, do we. If additional calls are wanted all you do is hit
+	the (#) and you will get a new dial tone! After you hit (#) you do
+	not have to  re-enter the calling card number  simply enter your
+	desired number and it will connect you. If the number you called is
+	busy just keep hitting (#) and the number to be called until you
+	connect! Ok to calL the U.S. of a from another country, you use the
+	exact same format as described above! Ok now I will describe the
+	procedure for placing calls to a foreign country, such as
+	CANADA,RUSSIA,SOUTH AMERICA, etc.. Ok first lift the handset then
+	enter (01) + the country code + the city code + the local telephone
+	number. Ok after you get the tone enter the AT&T calling card
+	number. Ok if you can not dial operator assisted calls from your
+	area don't worry just jingle the operator and she will handle your
+	call, don't worry she can't see you! The international number on
+	the AT&T calling card is used for calling the US of A from places
+	like RUSSIA, CHINA you never know when you might get stuck in a
+	country like those and you have no money to make a call! The
+	international operator will be able to tell you if they honor the
+	AT&T calling card. Well I hope that this has straightened out some
+	of your problems on the use of an AT&T calling card! All you have
+	to remember is that weather you are placing the call or the
+	operator, be careful and never use the calling card from your home
+	phone!! That is a BIG NO NO.. Also AT&T has came out with a new
+	thing called (NEW CARD CALLER SERVICE) they say that it was
+	designed to meet the public's needs! These phones will be popping
+	up in many place such as airport terminals, hotels, etc... What the
+	new card caller service is, is a new type of phone that has a 
+	(CRT) screen that will talk to you in a language of your choice.
+	The  service works something like this, when you find a (NEW CARD
+	CALLER PHONE), all you do is follow the instructions on the (CRT)
+	screen, then you insert the (NEW CARD CALLER CARD) and there is a
+	strip of magnetic tape on the card  which reads the number, thus no
+	one can hear you saying your number or if there were a bug in the
+	phone,no touch tones will be heard!! You can also bill the call to
+	a third party. that is  one that I am not totally clear on yet! The
+	phone is supposed to tell you how it can be done. That is after you 
+	have inserted your card and lifted the receiver!
+
+
+
+
+
+
+
+                                  - 73 -
+
+
+BASIC TELECOMMUNICATIONS: By - < Net Runner >
+
+	CN/A:
+
+    	CN/A, WHICH STANDS FOR CUSTOMER NAME AND ADDRESS, ARE BUREAUS
+	THAT EXIST SO THAT AUTHORIZED BELL EMPLOYEES CAN FIND OUT THE NAME
+	AND ADDRESS OF ANY CUSTOMER IN THE BELL SYSTEM.  ALL #'S ARE
+	MAINTAINED ON FILE INCLUDING UNLISTED #'S.
+
+	HERE'S HOW IT WORKS:
+
+	1) YOU HAVE A # AND YOU WANT TO FIND OUT WHO OWNS IT, E.G. (914)
+	555-1234.
+
+	2) YOU LOOK UP THE CN/A # FOR THAT NPA IN THE LIST BELOW.  IN THE
+	EXAMPLE, THE NPA IS 914 AND THE CN/A# IS 518-471-8111.
+
+	3) YOU THEN CALL UP THE CN/A # (DURING BUSINESS HOURS) AND SAY
+	SOMETHING LIKE, "HI, THIS IS JOHN JONES FROM THE RESIDENTIAL
+	SERVICE CENTER IN MIAMI. CAN I HAVE THE CUSTOMER'S NAME AT
+	914-555-1234.  THAT # IS 914-555-1234." MAKE UP YOUR OWN REAL
+	SOUNDING NAME, THOUGH.
+
+	4) IF YOU SOUND NATURAL & CHEERY, THE OPERATOR WILL ASK NO
+	QUESTIONS.
+
+
+	HERE'S THE LIST:
+
+
+                      NPA     CN/A #       NPA     CN/A #
+                    ---  ------------    ---  ------------
+                    201  201-676-7070    517  313-232-8690
+                    202  202-384-9620    518  518-471-8111
+                    203  203-789-6800    519  416-487-3641
+                    204  ****N/A*****    601  601-961-0877
+                    205  205-988-7000    602  303-232-2300
+                    206  206-382-8000    603  617-787-2750
+                    207  617-787-2750    604  604-432-2996
+                    208  303-232-2300    605  402-345-0600
+                    209  415-546-1341    606  502-583-2861
+                    212  518-471-8111    607  518-471-8111
+                    213  213-501-4144    608  414-424-5690
+                    214  214-948-5731    609  201-676-7070
+                    215  412-633-5600    612  402-345-0600
+                    216  614-464-2345    613  416-487-3641
+                    217  217-525-7000    614  614-464-2345
+                    218  402-345-0600    615  615-373-5791
+                    219  317-265-7027    616  313-223-8690
+                    301  301-534-11??    617  617-787-2750
+                    302  412-633-5600    618  217-525-7000
+                    303  303-232-2300    701  402-345-0600
+
+                                  - 74 -
+
+
+                    304  304-344-8041    702  415-546-1341
+                    305  912-784-9111    703  804-747-1411
+                    306  ****N/A*****    704  912-784-9111
+                    307  303-232-2300    705  416-487-3641
+                    308  402-345-0600    707  415-546-1341
+                    309  217-525-7000    709  ****N/A*****
+                    312  312-769-9600    712  402-345-0600
+                    313  313-223-8690    713  713-658-1793
+                    314  314-436-3321    714  213-995-0221
+                    315  518-471-8111    715  414-424-5690
+                    316  816-275-2782    716  518-471-8111
+                    317  317-265-7027    717  412-633-5600
+                    318  318-227-1551    801  303-232-2300
+                    319  402-345-0600    802  617-787-2750
+                    401  617-787-2750    803  912-784-9111
+                    402  402-345-0600    804  804-747-1411
+                    403  403-425-2652    805  415-546-1341
+                    404  912-784-9111    806  512-828-2502
+                    405  405-236-6121    807  416-487-3641
+                    406  303-232-2300    808  212-226-5487
+                    408  415-546-1341         BERMUDA ONLY
+                    412  412-633-5600    809  212-334-4336
+                    413  617-787-2750    812  317-265-7027
+                    414  414-424-5690    813  813-228-7871
+                    415  415-546-1132    814  412-633-5600
+                    416  416-487-3641    815  217-525-7000
+                    417  314-436-3321    816  816-275-2782
+                    418  514-861-6391    817  214-948-5731
+                    419  614-464-2345    819  514-861-6391
+                    501  405-236-6121    901  615-373-5791
+                    502  502-583-2861    902  902-421-4110
+                    503  503-241-3440    903  ****N/A*****
+                    504  504-245-5330    904  912-784-9111
+                    505  303-232-2300    906  313-223-8690
+                    506  506-657-3855    907  ****N/A*****
+                    507  402-345-0600    912  912-784-9111
+                    509  206-382-8000    913  816-275-2782
+                    512  512-828-2501    914  518-471-8111
+                    513  614-464-2345    915  512-828-2501
+                    514  514-861-6391    916  415-546-1341
+                    515  402-345-0600    918  405-236-6121
+                    516  518-471-8111    919  912-784-9111
+
+
+
+
+
+
+
+
+
+
+
+                                  - 75 -
+
+
+	A little something about Your phone company: By Col. Hogan        
+
+    	 Ever get an operator who gave you a hard time, and you didn't
+	know what to do? Well if the operator hears you use a little Bell
+	jargon, she might wise up. Here is a little diagram (excuse the
+	artwork) of the structure of operators
+
+	/--------\     /------\     /-----\   /-------------\
+
+	!Operator!-- > ! S.A. ! --->! BOS !   ! Group Cheif !
+
+	\--------/     \------/     \-----/   \-------------/
+
+	    Now most of the operators are not bugged, so they can curse at
+	you, if they do ask INSTANTLY for the "S.A." or the Service
+	Assistant. The operator does not report to her (95% of them are
+	hers) but they will solve most of your problems. She MUST give you
+	her name as she connects & all of these calls are bugged. If the SA
+	gives you a rough time get her BOS (Business Office Supervisor) on
+	the line. S/He will almost always back her girls up, but sometimes
+	the SA will get tarred and feathered. The operator reports to the
+	Group Chief, and S/He will solve 100% of your problems, but the
+	chances of getting S/He on the line are nill. If a lineman (the guy
+	who works out on the poles) or an Installation man gives you the
+	works ask to speak to the Instal- lation Foreman, that works
+	wonders. Here is some other bell Jar- gon, that might come in handy
+	if you are having trouble with the line. Or they can be used to lie
+	your way out of situations. An Erling is a line busy for 1 hour,
+	used mostly in traffic studies A Permanent Signal is that terrible
+	howling you get if you disc- connect, but don't hang up. Everyone
+	knows what a busy signal is, but some idiots think that is the
+	*Actual* ringing of the phone, when it just is a tone "beeps" when
+	the phone is ringing, woul- ldn't bet on this though, it can (and
+	does) get out of sync. When you get a busy signal that is 2 times
+	as fast as the normal one, the person you are trying to reach isn't
+	really on the phone, (he might be), it is actually the signal that
+	a trunk line somewhere is busy and they haven't or can't reroute
+	your call. Sometimes you will get a Recording, or if you get
+	nothing at all (Left High & Dry in fone terms) all the recordings
+	are being used and the system is really overused, will probably go
+	down in a little while. This happened when Kennedy was shot, the
+	system just couldn't handle the calls. By the way this is called
+	the "reorder signal" and the trunk line is "blocked". One more
+	thing, if an overseas call isn't completed and doesn't generate any
+	money for AT&T, is is called an "Air & Water Call".
+
+
+
+
+
+
+
+                                  - 76 -
+
+	Files By Al.P.H.A
+	                      ÚÄ¿    Ú¿   ÚÂÄÄÂ¿  Ú¿   Ú¿     ÚÄ¿
+	                     Ú³ ³¿   ³³   ³³  À³¿ ³³   ³³    Ú³ ³¿
+	                    Ú³ÁÄÁ³¿  ³³   ³ÃÄÄÄÁÙ ³ÃÄÄÄ´³   Ú³ÁÄÁ³¿
+	                   Ú³Ù   À³¿ ³³Ú¿ ³³Ú¿    ³³   ³³Ú¿Ú³Ù   À³¿
+	                   ÀÙ     ÀÙ ÀÙÀÙ ÀÙÀÙ    ÀÙ   ÀÙÀÙÀÙ     ÀÙ
+	                   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+	                   -         Jesters Guide to....          -
+	                   -                                       -
+	                   - {- 950-0266's for the new Phreaker -} -
+	                   -                                       -
+	                   -            {- 11\6\89 -}              -
+	                   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+	     This is a file I just decided to write, right after a guy that
+	lives near me, who runs a bbs complained about his outrageously
+	high phone bill, and being that I use 0266's I decided that I would
+	TRY to write a text file on how to use the 0266's as a simple way
+	of phreaking. I am not an expert on the subject and I don't claim
+	to be, I am just writing this file to try to help out others that
+	are in the same experiance level as the guy that I was talking
+	about previouly in the file.
+
+	     There are many different types of 950's, but the type I use is
+	the 950-0266 and I use these because that is what I was taught with
+	and they seem like a fairly good, and easy way to phreak. 950-0266s
+	are known to have VERY clean lines, so they are perfect to use with
+	modems.
+
+	         The basic format for these codes are:
+
+	     (1)  Dial 950-0266
+	     (2)  Wait for tone then dial your 7 digit Code
+	     (3)  Right after dialing your Code dial your ACN (Area Code
+	          Number)
+
+	      I.E. if I were to call my friend Joe in Utah, I would do
+	      this... 950-0266 (tone) XXXXXXX8015551234 The X's stand for 
+	      the 7 digit code
+
+	     950's have known to be dangerouse, they are on ESS (electronic
+	switching service) which is a phreaks nightmare. Being that 950's
+	are on the ESS they can, and have been known to trace. The type of
+	tracing service on 950's can trace in a heart beat, so there is
+	somewhat a great risk in using these. Some precautions about using
+	950s - Do NOT use the same code for more then 3 days. Try to use
+	different codes if you have them i.e. call one board with a code
+	like 2314211 , and then call the next board with a totally
+	different code. Use these codes during prime time, to cut the risk
+	of getting caught down. And use these in moderation, do not get
+	crazy with them.
+
+
+                                  - 77 -
+
+
+	     I hope this file hasnt been to much of a waste of time, I hope
+	it has offered some help to you in using 950-0266's. I would like
+	to have suggestions and comments on what you think of my file.  If
+	you have valid Input, please let me know your opinion on
+	Al.P.H.A.'s home Board (801)!!!
+
+
+
+    	                            Copyright (C) 1989 by -NecroiDaemon
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  - 78 -
+
+
+	Files By Al.P.H.A
+    	                    ÚÄ¿   Ú¿  ÚÂÄÄÂ¿ Ú¿   Ú¿     ÚÄ¿
+        	               Ú³ ³¿  ³³  ³³  À³¿³³   ³³    Ú³ ³¿
+            	          Ú³ÁÄÁ³¿ ³³  ³ÃÄÄÄÁÙ³ÃÄÄÄ´³   Ú³ÁÄÁ³¿
+                	     Ú³Ù   À³¿³³Ú¿³³Ú¿   ³³   ³³Ú¿Ú³Ù   À³¿
+                    	 ÀÙ     ÀÙÀÙÀÙÀÙÀÙ   ÀÙ   ÀÙÀÙÀÙ     ÀÙ   
+	                   -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+    	               -=  Code Hacking - Done Right  7/17-90 =-
+        	           -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+	Code Hacking falls into both the hacking and phreaking category.
+	Think about it. You have to HACK in order to get codez and then you
+	PHREAK when you get the codez. I'm not going to go into great
+	detail on code phreaking, this text file is going to deal mainly
+	with "CODE HACKING". I get asked all the time where and how to get
+	codez. I'm hoping this file will clear up this question for a lot
+	of people. This is not my first  text file, but I don't make a
+	habbit out of them yet!
+
+
+	   Code Hacking, What is it:
+	   -=-=-=-=-=-=-=-=-=-=-=-=-
+       Simply enough it's where you get a dial up (IE. 1-800's or
+	950's) and set up a code hacking program and config it to the code
+	you're about to hack and let it run. Now there are hundrends of
+	dial ups for us pkreakers/hackers to play with (I will list a few
+	at the end of this phile), and the code lenght and formats also
+	very a great deal. Now you can get your hacker set up and let it
+	run all night and if Gh0d's willing you might get lucky
+	and get a code by the next day. 
+
+	     Ok the best way to go about Code hacking is to get a format or
+	template if you perfer to call it that. Now they look like this.
+	801XX, where you know the first 3 digits of the code is 801, but
+	the last 2 digits are unknown and you have to hack out the  last 2
+	digits. If you know all but 2 digits then you have a 1 in 100 shot
+	in getting a code each time your hacker trys to  hack a code, of
+	course the longer the code or the less digits you know the less
+	chance you have in hacking a code. But belive me
+	it's never a lost cause. You can have zero digits and still get
+	codez.
+
+	A Lesson in Formats #1:
+	-=-=-=-=-=-=-=-=-=-=-=-
+	     Ok say your going to hack 1-800-635-9135, Code lenght is 5
+	digits, and already have the following codez!
+                                  22199
+                                  22723
+                                  22857
+                                  22832
+                        
